@@ -1,0 +1,6 @@
+{
+  "name": "StickMan Studio",
+  "description": "Interactive Stickman character builder and keyframe animation studio with a Liquid Glass neon interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
